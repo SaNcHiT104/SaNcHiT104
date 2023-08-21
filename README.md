@@ -40,7 +40,7 @@
 
 ### Github Stats :zap:
 <br>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaNcHiT104&&show_icons=true&theme=dark" alt="Sanchit's Github Stats" >
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaNcHiT104&&show_icons=true&theme=dark" alt="Sanchit's Github Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaNcHiT104&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sanchit's Top Languages"/>
 
 <img src="https://github.com/sisodiya2421/sisodiya2421/blob/master/images/bottom.svg" />
