@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/SaNcHiT104" />
+    <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=SaNcHiT104" />
 </p>
 
 <p align="center">
